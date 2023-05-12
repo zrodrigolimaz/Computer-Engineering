@@ -40,5 +40,3 @@ Sobre o conjunto de dados
 -------------------------
 
 O conjunto de dados de doenças cardíacas consiste em várias variáveis relacionadas à saúde do coração, como idade, sexo, tipo de dor no peito, pressão arterial, colesterol, e muito mais. Estes são usados como recursos para treinar o modelo. O alvo é uma variável binária indicando se a pessoa tem ou não doença cardíaca.
-
-Esperamos que você ache este repositório útil para o seu aprendizado de Aprendizado de Máquina!
