@@ -16,7 +16,6 @@ O script depende das seguintes bibliotecas Python:
 
 Você pode instalar todas as dependências usando pip:
 
-shCopy code
 
 `pip install pandas numpy matplotlib seaborn sklearn`
 
